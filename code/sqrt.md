@@ -25,4 +25,6 @@
 
     math.Sqrt只接收一个float64类型的值
 
+    float的比较具有不精确性
+
 
