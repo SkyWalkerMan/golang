@@ -14,7 +14,7 @@
             x := math.Sqrt(i + 100)
             y := math.Sqrt(i + 268)
 
-            if x*x == i+100 && y*y == i+368 {
+            if x*x == i+100 && y*y == i+268 {
                 fmt.Println(i)
             }
         }
@@ -22,3 +22,7 @@
     }
 
     //zhe个数暂时没有求解出来
+
+    math.Sqrt只接收一个float64类型的值
+
+
